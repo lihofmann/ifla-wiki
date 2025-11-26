@@ -1,2 +1,2 @@
 Go to the wiki:
-<https://github.com/lihofmann/ifla-welcome/wiki>
+<https://github.com/lihofmann/ifla-wiki/wiki>
